@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ranek-Produtos/static/css/main.ff240031.css",
-    "main.js": "/Ranek-Produtos/static/js/main.cd6e7e01.js",
+    "main.js": "/Ranek-Produtos/static/js/main.38220505.js",
     "static/js/787.6a9f4349.chunk.js": "/Ranek-Produtos/static/js/787.6a9f4349.chunk.js",
     "static/media/contato.png": "/Ranek-Produtos/static/media/contato.5bbeaf31bb379ae4b9ad.png",
     "index.html": "/Ranek-Produtos/index.html",
     "main.ff240031.css.map": "/Ranek-Produtos/static/css/main.ff240031.css.map",
-    "main.cd6e7e01.js.map": "/Ranek-Produtos/static/js/main.cd6e7e01.js.map",
+    "main.38220505.js.map": "/Ranek-Produtos/static/js/main.38220505.js.map",
     "787.6a9f4349.chunk.js.map": "/Ranek-Produtos/static/js/787.6a9f4349.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff240031.css",
-    "static/js/main.cd6e7e01.js"
+    "static/js/main.38220505.js"
   ]
 }
